@@ -1,0 +1,54 @@
+body {
+    background: white;
+    color: black;
+    margin-left: 16px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: red;
+    margin-left: 350px;
+    margin-right: 100px;
+}
+
+h3 {
+    color: red;
+    font-style: oblique;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: blue;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.img_padrão {
+    margin-bottom: 10px;
+}
+
+aplicativos {
+    color: blue;
+}
+
+em {
+    color: blue;
+    font-style: normal;
+}
+
+footer {
+    margin-bottom: 200px;
+}
+
+desenvolvido {
+    color: red;
+    font-size: 16px;
+    font-style: oblique;
+}
